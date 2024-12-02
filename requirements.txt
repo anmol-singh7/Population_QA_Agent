@@ -1,4 +1,8 @@
-llama-index
+llama-index==0.9.48
 pypdf
 python-dotenv
 pandas
+transformers 
+sentence-transformers
+llama-index-experimental
+llama-index-llms-ollama
